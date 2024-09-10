@@ -706,21 +706,27 @@ FW_VERSIONS = {
     CAR.ACURA_MDX_HYBRID: {
     (Ecu.vsa, 0x18DA28F1, None): [
       b'57114-TRX-H130\x00\x00',
+      b'57114-TZ6-A810\x00\x00',
     ],
     (Ecu.gateway, 0x18DAEFF1, None): [
       b'38897-TRX-A220\x00\x00',
+      b'38897-TZ5-A110\x00\x00',
     ],
     (Ecu.fwdRadar, 0x18DAB0F1, None): [
       b'36161-TRX-A820\x00\x00',
+      b'36161-TZ6-A340\x00\x00',
     ],
     (Ecu.shiftByWire, 0x18DA0BF1, None): [
       b'77959-TZ5-A110\x00\x00',
+      b'54008-TZ5-A910\x00\x00',
     ],
     (Ecu.srs, 0x18DA53F1, None): [
       b'77959-TRX-A011\x00\x00',
+      b'77959-TZ5-A220\x00\x00',
     ],
     (Ecu.combinationMeter, 0x18DA60F1, None): [
       b'78109-TYT-A220\x00\x00',
+      b'78109-TZ6-A720\x00\x00',
     ],
   },
   CAR.ACURA_RDX_3G: {
